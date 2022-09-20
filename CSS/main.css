@@ -1,0 +1,25 @@
+a:link {
+    color: red;
+    text-decoration: none;
+    border: 2px solid rgb(255, 153, 0);
+    text-align: center;
+}
+a:link, a:visited {
+    text-decoration: none;
+    border: 2px solid rgb(255, 153, 0);
+    text-align: center;
+    display: inline-block;
+    color: black;
+    background-color: white;
+    padding: 10px 40px;
+}
+a:hover, a:active {
+    text-decoration: none;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    background-color: rgb(255, 153, 0);
+}
+h1 {
+    text-shadow: 2px 2px 5px cyan;
+    text-align: center;
+  }
